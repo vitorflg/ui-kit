@@ -1,2 +1,2 @@
 # theme-ui-kit
-Component's kit to help build UI's easily 🚀
+Component's kit to help building UI's easily 🚀
