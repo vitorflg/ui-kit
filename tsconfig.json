@@ -17,7 +17,7 @@
     "lib": ["es2017", "dom", "es2018.promise", "esnext.asynciterable"],
     "jsx": "react",
     "typeRoots": ["node_modules/@types"],
-    "types": ["node", "react/experimental"],
+    "types": ["node"],
     "module": "esnext",
     "moduleResolution": "node",
     "target": "es2017"

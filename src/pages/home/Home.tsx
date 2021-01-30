@@ -1,16 +1,10 @@
 /** @jsx jsx */
-import { Box, jsx, Styled } from 'theme-ui';
-import React from 'react';
-import LayoutContainer from '../../components/containers/LayoutContainer';
+import { jsx } from 'theme-ui'
+import React from 'react'
+import Button from '@material-ui/core/Button'
 
 const Home: React.FC = () => {
-  return (
-    <Box sx={{ mt: 6 }}>
-      <LayoutContainer>
-        <Styled.h1>ui-kit</Styled.h1>
-      </LayoutContainer>
-    </Box>
-  );
-};
+  return <Button>Login</Button>
+}
 
-export default Home;
+export default Home
